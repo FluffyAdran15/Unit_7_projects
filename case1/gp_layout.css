@@ -24,7 +24,8 @@
 /* Flex Layout Styles */
 
 
-body {display: -webkit-flex;
+body {
+  display: -webkit-flex;
    -webkit-flex-flow: row wrap;
    display:flex;
    flex-flow: row wrap;
