@@ -57,22 +57,22 @@ nav#bottom ul{
      font-size: 2.2em;
   }
   nav#top ul li:nth-of-type(1){
-     background: url("cw_image01.png") center center / contain no-repeat;
+     background: url("cw_image01.png") center  / contain no-repeat;
   }
   nav#top ul li:nth-of-type(2){
-     background: url("cw_image02.png") center center / contain no-repeat;
+     background: url("cw_image02.png")  center / contain no-repeat;
   }
   nav#top ul li:nth-of-type(3){
-     background: url("cw_image03.png") center center / contain no-repeat;
+     background: url("cw_image03.png")  center / contain no-repeat;
   }
   nav#top ul li:nth-of-type(4){
-     background: url("cw_image04.png") center center / contain no-repeat;
+     background: url("cw_image04.png")  center / contain no-repeat;
   }
   nav#top ul li:nth-of-type(5){
-     background: url("cw_image05.png") center center / contain no-repeat;
+     background: url("cw_image05.png")  center / contain no-repeat;
   }
   nav#top ul li:nth-of-type(6){
-     background: url("cw_image06.png") center center / contain no-repeat;
+     background: url("cw_image06.png") center / contain no-repeat;
   }
   p#links{
      display: -webkit-flex;
